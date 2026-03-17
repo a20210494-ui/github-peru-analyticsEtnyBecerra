@@ -1,0 +1,30 @@
+# Core
+requests>=2.31.0
+httpx>=0.25.0           # Async HTTP client (optional)
+python-dotenv>=1.0.0
+
+# OpenAI
+openai>=1.12.0
+tiktoken>=0.5.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+sqlalchemy>=2.0.0
+              # Built-in
+
+# Visualization
+streamlit>=1.31.0
+plotly>=5.18.0
+altair>=5.2.0
+
+# Utilities
+tqdm>=4.66.0
+loguru>=0.7.0
+tenacity>=8.2.0         # For retry logic
+
+# Development
+pytest>=7.4.0
+black>=24.0.0
