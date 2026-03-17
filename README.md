@@ -108,6 +108,6 @@ El agente utiliza el modelo **GPT-4o/Turbo** con una arquitectura de **Tool-Call
 ---
 
 ## Sección 10: Información del Autor
--   **Nombre**: [Tu Nombre / Estudiante]
+-   **Nombre**: Etny Julissa Becerra Lopez
 -   **Curso**: Desarrollo de Agentes de IA / Tarea 2
 -   **Fecha**: 12 de marzo de 2026
