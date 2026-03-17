@@ -9,10 +9,18 @@ venv/
 __pycache__/
 *.pyc
 
-# Data
-data/
-outputs/
-*.csv
-*.json
+# Data and Results
+# Allow processed data folder
+!data/
+!data/processed/
+!data/processed/*.csv
+
+# Allow images and special json
+!*.png
+!*.jpg
+!*.jpeg
 !app/src/agents/demo/questions.json
 !app/src/agents/demo/screenshots/
+
+# Ignore outputs if they are temporary
+outputs/
